@@ -21,3 +21,5 @@
 3. Нумерованный список 3
 
 [Ссылка на сайт](https://github.com/Miadr-glitch/Study_1/edit/main/main.md)
+
+![image](https://gb.ru/blog/wp-content/uploads/2023/08/13.png.web)
