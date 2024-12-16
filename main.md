@@ -23,3 +23,10 @@
 [Ссылка на сайт](https://github.com/Miadr-glitch/Study_1/edit/main/main.md)
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULAFFIeoTlEXkF8dADrcN0DSxVMY7mwdvwA&s)
+
+|Заголовок 1|Заголовок 2|
+|-----------|-----------|
+|Ячейка 1|Ячейка 2|
+|Ячейка 3|Ячейка 3|
+
+Это математическая формула $$\bar(x) = \frac{\sum_{i=1}^n x_1}(n)$$
