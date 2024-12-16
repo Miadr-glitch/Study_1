@@ -22,4 +22,4 @@
 
 [Ссылка на сайт](https://github.com/Miadr-glitch/Study_1/edit/main/main.md)
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxNsDyxinTl5ku_omM1vRAMDaoShdJCwWhw&s)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULAFFIeoTlEXkF8dADrcN0DSxVMY7mwdvwA&s)
