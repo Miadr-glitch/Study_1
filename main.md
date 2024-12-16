@@ -22,4 +22,4 @@
 
 [Ссылка на сайт](https://github.com/Miadr-glitch/Study_1/edit/main/main.md)
 
-![image](https://gb.ru/blog/wp-content/uploads/2023/08/13.png.web)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgb.ru%2Fblog%2Fgithub-nastrojka%2F&psig=AOvVaw3vYmjY-GtYOS4BUCxvK2Yb&ust=1734445627538000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjsrNG_rIoDFQAAAAAdAAAAABAZ)
